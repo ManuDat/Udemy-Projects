@@ -3,8 +3,6 @@ _________________
 
 <img src="https://sun9-68.userapi.com/impg/j2gw_QQVpi0aw6G4IpkmHaVORbJNDdsMiwybig/Uant2JjB6Fc.jpg?size=1249x638&quality=96&proxy=1&sign=5a819d7efbae914d060c7ce1b7cf60c4&type=album">
 
----
-
 ссылка на курс: [https://www.udemy.com/course/learning-python-for-data-analysis-and-visualization/](https://www.udemy.com/course/learning-python-for-data-analysis-and-visualization/)  
 
 ---  
